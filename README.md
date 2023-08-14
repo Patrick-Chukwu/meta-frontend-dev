@@ -1,7 +1,7 @@
-# Meta Frontend Developer course
+# Meta Front-End Developer Professional Certificate course
 
 
-This repository will host my solutions to challenges, tasks and capstone project from the Meta Frontend Course: [Frontend Mentor](https://www.frontendmentor.io).
+This repository will host my solutions to challenges, tasks and capstone project for the course: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer).
 
 ## Table of contents
 
@@ -11,9 +11,14 @@ This repository will host my solutions to challenges, tasks and capstone project
   - [Author](#author)
 
 ## Overview
-It was a pretty interesting class.
+The course helps to kickstart a career in front-end development. It offers in-depth understanding of HTML, CSS, JavaScript, and React. The program not only equips you with knowledge to build interactive web pages, but also preps you for tech interviews with problem-solving strategies and portfolio-building projects.
+My favourite part of the course was watching interviews by Software engineers from Meta, speaking best practice, their experience and a whole lot of things.
 
-
+## Programme objective
+- Create a responsive website using HTML to structure content, CSS to handle visual style, and JavaScript to develop interactive experiences.
+- Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.
+- Learn to use React in relation to Javascript libraries and frameworks.
+- Prepare for a coding interview, learn best approaches to problem-solving, and build portfolio-ready projects you can share during job interviews.
 
 ## Key-learning
 These are the major things learnt from the programme
