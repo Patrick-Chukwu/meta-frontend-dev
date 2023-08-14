@@ -1,0 +1,157 @@
+body {
+    /* margin-right: 3rem ;
+    margin-left: 3rem ; */
+    /* background-color: rgb(90, 122, 112); */
+    /* justify-content: center; */
+    margin: 0;
+}
+.header {
+    background-color: rgb(153, 153, 37);
+    width: 100%;
+    padding: 2em;
+    place-items: center;
+}
+/* header, nav {
+    display: block;
+     margin: 0 auto;
+   
+} */
+header {
+    display: block; 
+
+   margin: 5px 45%;
+     height: 10px;
+}
+nav {
+    margin-bottom: 1em;
+    margin-top: 5em;
+} 
+header > img {
+    height: 60px;  
+    margin: 10px 45%;
+  
+}
+main img {
+    display: block;
+    border-radius: 50px;
+    width: 100px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    border-radius: 10px;
+    /* width: fit-content; */
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    /* color: #fff; */
+    color: rgb(153, 153, 37);
+    padding:0 1rem;
+}
+
+h4 {
+    font-size: 1.1rem;
+    font-weight: 300;
+    /* color: #e2e2e2; */
+    color: rgb(153, 153, 37);
+    padding: 0 1rem ;
+}
+a:hover {
+    color: rgb(240, 240, 205) ;
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(240, 240, 205);
+}
+p {
+    font-size: 1rem;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+    background-color: rgb(233, 233, 159);
+    vertical-align: middle;
+    flex-wrap: wrap;
+ 
+}
+.about-1 {
+    display: block;
+    width: 300px;
+    text-align: center ;
+}
+
+.team {
+    background-color: rgb(240, 240, 205);
+    padding-bottom: 2rem;
+   
+}
+
+.team-container {
+   margin: 0 5rem;
+    width: auto;
+    padding: 2rem; ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* flex: auto; */
+    gap: 10px;
+    padding-bottom: 2rem;
+    border: 2px solid rgb(153, 153, 37);
+    border-radius: 10px;
+   
+}
+
+
+
+/* #copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
+} */
+
+.footer {
+  
+    background-color: rgb(153, 153, 37);
+    display: flex;
+    justify-content: space-around;
+    /* padding: 2rem; */
+    
+}
+
+footer > img {
+    display: block;
+    float: left;
+    height: 20px;
+    margin-bottom: 5px;
+    /* width: 50px; */
+}
+footer > div {
+    display: block;
+    float: right;
+    font-size: 2rem;
+    padding: 10px;
+}

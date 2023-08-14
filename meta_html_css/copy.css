@@ -1,0 +1,161 @@
+body {
+    /* margin-right: 3rem ;
+    margin-left: 3rem ; */
+    background-color: rgb(90, 122, 112);
+    /* justify-content: center; */
+}
+
+header {
+    display: block;
+
+   
+    /* height: 10px; */
+}
+nav {
+    margin-bottom: 10px;
+}
+header > img {
+    height: 60px;  
+    margin: 10px 45%;
+  
+}
+main img {
+    display: block;
+    border-radius: 50px;
+    width: 100px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: #fff;
+}
+
+h4 {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #e2e2e2;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+    background-color: aqua;
+    vertical-align: middle;
+ 
+}
+/* .hero + div {
+    text-align: ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8rem;
+    height: 10em;
+    vertical-align: middle;
+} */
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   
+}
+.about-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 50px;
+    gap: 20px;
+    width: 500px;
+}
+
+.team-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex: auto;
+    gap: 10px;
+    margin: 3rem;
+}
+
+.clients {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex: auto;
+    gap: 10px;
+    margin: 3rem;
+}
+
+.contact {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100vw;
+    height: 50vh;
+}
+.contact form > div {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
+}
+input:focus:invalid {
+    color: red;
+    border: red 3px solid;
+}
+
+.contact {
+    display: block;
+    text-align: center;
+    
+    margin: 50px;
+}
+footer {
+    margin: 20px;
+    background-color: rgb(207, 28, 28);
+}
+
+footer > img {
+    display: block;
+    float: left;
+    height: 20px;
+    margin-bottom: 5px;
+    /* width: 50px; */
+}
+footer > div {
+    display: block;
+    float: right;
+    font-size: 2rem;
+    padding: 10px;
+}
