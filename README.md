@@ -13,7 +13,7 @@ This repository will host my solutions to challenges, tasks and capstone project
 ## Overview
 The course helps to kickstart a career in front-end development. It offers in-depth understanding of HTML, CSS, JavaScript, and React. The program not only equips you with knowledge to build interactive web pages, but also preps you for tech interviews with problem-solving strategies and portfolio-building projects.
 
-My favourite part of the course was watching interviews by Software engineers from Meta, speaking best practice, their experience and a whole lot of things.
+My favourite part of the course was watching interviews by Software engineers from Meta, speaking on best practice, their experience and a whole lot of things.
 
 ## Programme objective
 - Create a responsive website using HTML to structure content, CSS to handle visual style, and JavaScript to develop interactive experiences.
